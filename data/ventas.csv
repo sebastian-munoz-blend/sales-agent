@@ -1,0 +1,7 @@
+id,vendedor,sede,producto,cantidad,precio,fecha
+1,Juan,Bogotá,Laptop,2,3000,2024-01-10
+2,Ana,Medellín,Mouse,10,50,2024-01-11
+3,Carlos,Bogotá,Teclado,5,100,2024-01-12
+4,Ana,Medellín,Laptop,1,3200,2024-01-13
+5,Juan,Cali,Monitor,3,800,2024-01-14
+6,Carlos,Bogotá,Mouse,7,45,2024-01-15

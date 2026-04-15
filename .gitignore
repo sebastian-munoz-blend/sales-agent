@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno
+.env
+
+# Base de datos
+*.db
+
+# Outputs generados
+output.csv
+output_chart.png
+outputs/
+
+# Sistema
+.DS_Store
